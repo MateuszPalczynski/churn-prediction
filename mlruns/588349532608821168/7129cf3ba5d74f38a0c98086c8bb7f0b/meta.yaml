@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/7129cf3ba5d74f38a0c98086c8bb7f0b/artifacts
+end_time: 1758549029726
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 7129cf3ba5d74f38a0c98086c8bb7f0b
+run_name: SVC__RandomUnderSampler__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549027811
+status: 3
+tags: []
+user_id: User

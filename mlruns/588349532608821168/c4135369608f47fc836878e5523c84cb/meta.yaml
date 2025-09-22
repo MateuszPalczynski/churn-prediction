@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/c4135369608f47fc836878e5523c84cb/artifacts
+end_time: 1758546829260
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: c4135369608f47fc836878e5523c84cb
+run_name: Decision Tree__ADASYN__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546828611
+status: 3
+tags: []
+user_id: User

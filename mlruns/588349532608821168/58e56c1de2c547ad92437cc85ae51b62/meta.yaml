@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/58e56c1de2c547ad92437cc85ae51b62/artifacts
+end_time: 1758464374224
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 58e56c1de2c547ad92437cc85ae51b62
+run_name: SVC__RandomUnderSampler__bayes_sub0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758464367888
+status: 3
+tags: []
+user_id: User

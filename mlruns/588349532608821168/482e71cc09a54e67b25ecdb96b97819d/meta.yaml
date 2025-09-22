@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/482e71cc09a54e67b25ecdb96b97819d/artifacts
+end_time: 1758549030518
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 482e71cc09a54e67b25ecdb96b97819d
+run_name: k-NN__SMOTE__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549030122
+status: 3
+tags: []
+user_id: User

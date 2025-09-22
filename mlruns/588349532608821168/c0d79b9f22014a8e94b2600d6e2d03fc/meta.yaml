@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/c0d79b9f22014a8e94b2600d6e2d03fc/artifacts
+end_time: 1758549002999
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: c0d79b9f22014a8e94b2600d6e2d03fc
+run_name: Logistic Regression__None__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758549002830
+status: 3
+tags: []
+user_id: User

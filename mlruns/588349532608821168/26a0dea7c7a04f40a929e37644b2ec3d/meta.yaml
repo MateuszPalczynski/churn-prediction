@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/26a0dea7c7a04f40a929e37644b2ec3d/artifacts
+end_time: 1758549001213
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 26a0dea7c7a04f40a929e37644b2ec3d
+run_name: Gradient Boosting__TomekLinks__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758548999898
+status: 3
+tags: []
+user_id: User

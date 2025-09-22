@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/d669333f936944ca92c0b9ee29dea01b/artifacts
+end_time: 1758548996364
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: d669333f936944ca92c0b9ee29dea01b
+run_name: XGBoost__ADASYN__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758548995864
+status: 3
+tags: []
+user_id: User

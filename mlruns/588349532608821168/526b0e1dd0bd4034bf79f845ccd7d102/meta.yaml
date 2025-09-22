@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/526b0e1dd0bd4034bf79f845ccd7d102/artifacts
+end_time: 1758546817776
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 526b0e1dd0bd4034bf79f845ccd7d102
+run_name: XGBoost__RandomOverSampler__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546817356
+status: 3
+tags: []
+user_id: User

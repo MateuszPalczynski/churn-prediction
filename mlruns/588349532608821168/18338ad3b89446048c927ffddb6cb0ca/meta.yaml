@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/18338ad3b89446048c927ffddb6cb0ca/artifacts
+end_time: 1758464284392
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 18338ad3b89446048c927ffddb6cb0ca
+run_name: AdaBoost__TomekLinks__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758464283886
+status: 3
+tags: []
+user_id: User

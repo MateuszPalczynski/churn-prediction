@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/52b750c456624e2e8fc0e55e49165553/artifacts
+end_time: 1758546976176
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 52b750c456624e2e8fc0e55e49165553
+run_name: AdaBoost__RandomOverSampler__bayes_sub0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546944651
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/bc92126271ac48b6b0251f93455df30f/artifacts
+end_time: 1758464305993
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: bc92126271ac48b6b0251f93455df30f
+run_name: Gaussian Naive Bayes__RandomOverSampler__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758464305841
+status: 3
+tags: []
+user_id: User

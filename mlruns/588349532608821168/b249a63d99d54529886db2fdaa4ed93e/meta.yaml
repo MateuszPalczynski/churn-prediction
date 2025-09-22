@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/b249a63d99d54529886db2fdaa4ed93e/artifacts
+end_time: 1758464271245
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: b249a63d99d54529886db2fdaa4ed93e
+run_name: LightGBM__RandomOverSampler__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758464270580
+status: 3
+tags: []
+user_id: User

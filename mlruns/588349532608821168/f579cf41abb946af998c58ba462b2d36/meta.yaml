@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/f579cf41abb946af998c58ba462b2d36/artifacts
+end_time: 1758546828586
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: f579cf41abb946af998c58ba462b2d36
+run_name: LightGBM__SMOTE__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546826746
+status: 3
+tags: []
+user_id: User

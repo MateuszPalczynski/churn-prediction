@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/1f596ed4b7d1492897d82ddcbd6b021c/artifacts
+end_time: 1758546934489
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 1f596ed4b7d1492897d82ddcbd6b021c
+run_name: Logistic Regression__TomekLinks__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546933852
+status: 3
+tags: []
+user_id: User

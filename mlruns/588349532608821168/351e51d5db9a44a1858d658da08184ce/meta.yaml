@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/351e51d5db9a44a1858d658da08184ce/artifacts
+end_time: 1758464264345
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 351e51d5db9a44a1858d658da08184ce
+run_name: Random Forest__None__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758464261312
+status: 3
+tags: []
+user_id: User

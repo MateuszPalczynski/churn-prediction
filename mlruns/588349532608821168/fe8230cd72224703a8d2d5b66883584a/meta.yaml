@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/fe8230cd72224703a8d2d5b66883584a/artifacts
+end_time: 1758546835726
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: fe8230cd72224703a8d2d5b66883584a
+run_name: Gradient Boosting__ADASYN__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758546832846
+status: 3
+tags: []
+user_id: User

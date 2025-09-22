@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Jupyter_folders/Projekty/Churn_prediction/mlruns/588349532608821168/91ef0cbd32fc4202967e91582c18604f/artifacts
+end_time: 1758468799553
+entry_point_name: ''
+experiment_id: '588349532608821168'
+lifecycle_stage: active
+run_id: 91ef0cbd32fc4202967e91582c18604f
+run_name: Decision Tree__SMOTE__baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758468799409
+status: 3
+tags: []
+user_id: User
