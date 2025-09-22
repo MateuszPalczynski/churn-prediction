@@ -1,1 +1,0 @@
-{'model__C': Real(low=0.01, high=1000.0, prior='log-uniform', transform='normalize'), 'model__gamma': Real(low=0.0001, high=0.1, prior='log-uniform', transform='normalize'), 'model__kernel': Categorical(categories=('rbf', 'poly'), prior=None)}

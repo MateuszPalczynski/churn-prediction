@@ -1,1 +1,0 @@
-{'model__n_estimators': Integer(low=50, high=500, prior='uniform', transform='identity'), 'model__learning_rate': Real(low=0.01, high=1.0, prior='log-uniform', transform='identity')}
