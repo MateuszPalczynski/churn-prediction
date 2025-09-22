@@ -46,6 +46,9 @@ This project was executed following a rigorous, multi-stage analytical methodolo
 * A two-stage tuning strategy was implemented for efficiency:
     1.  **"Horse Race":** A quick comparison of all model-sampler combinations with default parameters to identify the most promising candidates.
     2.  **Bayesian Optimization (`BayesSearchCV`):** Targeted and efficient hyperparameter tuning for the top-performing combinations from the first stage.
+ 
+### 6. Experiment tracking (MLflow)
+* For repeatability and comparability of experiments, the project uses **MLflow**.  
 
 ## Results
 
